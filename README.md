@@ -16,7 +16,8 @@ Installation and Usage
 
 To play Rolling Dice, simply download the files from the GitHub repository and open the index.html file in your web browser.
 
-Alternatively, you can play the game online by visiting the following link: https://your-link-here.com
+Alternatively, you can play the game online by visiting the following link: https://nathan-obace.github.io/rolling-dice/
+
 Contributing
 
 If you would like to contribute to the development of Rolling Dice, please feel free to submit a pull request on GitHub. All contributions are welcome!
